@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Travel Agent",
+    "skills": "HTML, SCSS, Gulp",
+    "img": "/imgProjects/01.jpg",
+    "gitHubPage": "https://lolekmakso.github.io/Phone-catalog/",
+    "gitHubRepo": "https://github.com/lolekmakso/Travel-agent"
+  },
+  {
+    "title": "Elegants Store",
+    "skills": "HTML, SCSS, Gulp",
+    "img": "/imgProjects/02.jpg",
+    "gitHubPage": "https://lolekmakso.github.io/Elegants-store/",
+    "gitHubRepo": "https://github.com/lolekmakso/Elegants-store"
+  },
+  {
+    "title": "Museum",
+    "skills": "HTML, SCSS",
+    "img": "/imgProjects/03.jpg",
+    "gitHubPage": "https://lolekmakso.github.io/Museum/",
+    "gitHubRepo": "https://github.com/lolekmakso/Museum"
+  },
+  {
+    "title": "2048",
+    "skills": "HTML, SCSS, JS",
+    "img": "/imgProjects/04.jpg",
+    "gitHubPage": "https://lolekmakso.github.io/2048/",
+    "gitHubRepo": "https://github.com/lolekmakso/2048"
+  },
+  {
+    "title": "Kickstarter",
+    "skills": "HTML, SCSS",
+    "img": "/imgProjects/05.jpg",
+    "gitHubPage": "https://lolekmakso.github.io/Kickstarter/",
+    "gitHubRepo": "https://github.com/lolekmakso/Kickstarter"
+  },
+  {
+    "title": "React Pizza",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Redux Toolkit",
+      "React Router",
+      "Axios",
+      "React Hooks",
+      "HTML",
+      "SCSS",
+      "React Content Loader",
+      "React Pagination"
+    ],
+    "img": "/imgProjects/06.jpg",
+    "gitHubPage": "https://lolekmakso.github.io/react-pizza/",
+    "gitHubRepo": "https://github.com/lolekmakso/react-pizza"
+  },
+  {
+    "title": "Nice Gadgets",
+    "skills": "React, TypeScript, React Router, Prettier & ESLint, HTML, SCSS",
+    "img": "/imgProjects/07.jpg",
+    "gitHubPage": "https://lolekmakso.github.io/Phone-catalog/",
+    "gitHubRepo": "https://github.com/lolekmakso/Phone-catalog"
+  }
+]
